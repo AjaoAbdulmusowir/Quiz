@@ -12,3 +12,4 @@ C:\Users\USER\Desktop\Project\Assignment\Quiz\obj\Debug\net8.0\refint\Quiz.dll
 C:\Users\USER\Desktop\Project\Assignment\Quiz\obj\Debug\net8.0\Quiz.pdb
 C:\Users\USER\Desktop\Project\Assignment\Quiz\obj\Debug\net8.0\Quiz.genruntimeconfig.cache
 C:\Users\USER\Desktop\Project\Assignment\Quiz\obj\Debug\net8.0\ref\Quiz.dll
+C:\Users\USER\Desktop\Project\Assignment\Quiz\obj\Debug\net8.0\Quiz.sourcelink.json
